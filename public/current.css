@@ -10,3 +10,123 @@
   box-sizing: border-box;
   font-family: ff-tisa-web-pro, serif;
 }
+.content {
+	width: 90%;
+	margin: auto;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.header {
+	height: 200px;
+	background-color: rgb(54,71,78);
+}
+
+.header-button-link {
+	height: 38%;
+	width: 140px;
+	background-color: rgb(86, 192, 185);
+	border-radius: 10px;
+	line-height: 60px;
+	margin-top: auto;
+	margin-bottom: auto; 
+	text-align: center;
+}
+
+.header-link {
+	display: inline-block;
+	font-size: 24px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.header-links-right {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 41%;
+	color: rgb(146,155,163);
+	margin-bottom: 50px;
+}
+
+.header-links-left {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 41%;
+}
+
+.header-logo {
+	margin-left: 110px;
+	margin-right: 10px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.logo-image {
+	height: 120px;
+	width: 120px;
+}
+
+.subheader {
+	height: 300px;
+	background-color: rgb(215,125,34);
+	padding: 40px;
+	font-weight: bold;
+}
+
+.subheader-link {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.subheader-links {
+	font-size: 25px;
+	line-height: 100px;
+	width: 90%;
+	margin: auto;
+	height: 100px;
+	font-weight: normal;
+}
+
+.course-title {
+	font-size: 100px;
+	border-bottom: solid 5px rgb(234,191,148);
+	width: 90%;
+	margin: auto;
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 15px;
+}
+
+.tagline {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 40px;
+	color: rgb(215,125,34);
+	margin-bottom: 50px;
+}
+
+.image-right{
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	margin-top: 6px;
+}
+
+.body-content {
+	margin-top: 20px;
+	font-size: 24px;
+	line-height: 36px;
+}
+
+
+
